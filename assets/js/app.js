@@ -5,7 +5,7 @@
 
  		// Your token with Eventbrite for stuff: D5JWVCEPRXACNC6KHG
 
- 		// Establish query URL, metting GIPHY API requirements
+ 		// Establish query URL, metting Eventbrite API
  		var queryUrl = "http://api.";
  		console.log("queryUrl: " + queryUrl);
 
